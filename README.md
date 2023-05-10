@@ -1,7 +1,8 @@
 ###Packages Used
-*Client Side Packages
+
+-Client Side Packages
 *@material-ui/core
-*@material-ui/icons
++@material-ui/icons
 *axios
 *react-fast-marquee
 *react-helmet
