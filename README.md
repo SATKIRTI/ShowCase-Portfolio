@@ -23,7 +23,7 @@
 
 ## Demo 🎥
 
-[Link to Demo]((https://showcase-portfolio1.netlify.app/))
+[Link to Demo](https://showcase-portfolio1.netlify.app/)
 
 
 ## Installation ⬇️
