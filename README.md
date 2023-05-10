@@ -1,15 +1,16 @@
-###Packages Used
+# Table of Contents 📜
 
--Client Side Packages
-*@material-ui/core
-+@material-ui/icons
-*axios
-*react-fast-marquee
-*react-helmet
-*react-icons
-*react-reveal
-*react-router-dom
-*react-router-hash-link
-*react-slick
-*slick-carousel
-*validator
+- [Sections](#sections)
+- [Demo](#demo)
+- [Themes](#themes)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Folder Structure](#folder-structure)
+- [Usage](#usage)
+- [Hosting](#hosting)
+- [SEO](#seo)
+- [Packages Used](#packages-used)
+- [APIs Used](#apis-used)
+- [Fonts and Images](#fonts-and-images)
+- [Upcoming Features](#upcoming-features)
+- [Contributors](#contributors)
