@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/Satkirti Mishra-Resume.pdf'
+import resume from 'https://drive.google.com/file/d/1CnNF_8fdxJnbtrbdCTSjQwbbG69AnBuP/view'
 import profileimg from '../assets/profilepic (2).png'
 
 
