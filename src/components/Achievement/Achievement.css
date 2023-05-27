@@ -216,14 +216,14 @@
         padding: 1rem;
     }
     .achievement-cards {
-        width: 100%;
+        width: 80%;
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
 
     .achievement-body h4 {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     .achievecard-details1 p {
@@ -233,6 +233,5 @@
         width: 70px;
         height: 60px;
     }
-
 }
 
