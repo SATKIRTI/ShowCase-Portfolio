@@ -7,7 +7,6 @@ import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
 import nine from '../assets/svg/projects/eight.svg'
-import ten from '../assets/svg/projects/nine.svg'
 
 
 export const projectsData = [
@@ -15,8 +14,10 @@ export const projectsData = [
         id: 1,
         projectName: 'DairyDelight',
         projectDesc: 'This project is a MERN-stack web-based application.DairyDelight aims to revolutionize the way dairy products are managed, bought, and sold. 
+        code: 'https://github.com/SATKIRTI/Dairy-Delight-App',
+        tags: ['NodeJS', 'ReactJS', 'ExpressJS', 'MongoDB'],
         demo: 'https://dairydelightapp.cyclic.app/',
-        image: ten
+        image: url{'https://blog.insidetracker.com/hs-fs/hubfs/CowsMilk.jpg?width=1480&height=1075&name=CowsMilk.jpg'}
     },
     {
         id: 2,
