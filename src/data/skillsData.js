@@ -3,6 +3,8 @@
     'CSS',
     'Javascript',
     'ReactJS',
+    'MongoDB',
+    'Node JS',
     'C',
     'C++',
     'Python',
@@ -11,6 +13,7 @@
     'OOPs',
     'Operating System',
     'DBMS',
+    'SQL',
     'Computer Network',
 ]
 
