@@ -1,4 +1,4 @@
-import resume from 'file:///C:/Users/Dell/Downloads/Satkirti_Mishra_ResumeNew.pdf'
+import resume from 'https://drive.google.com/file/d/1HCQ5eEdVSjT_wW97SKRn-HC5F0NgRWa7/view?usp=drivesdk'
 import profileimg from '../assets/profilepic (2).png'
 
 
